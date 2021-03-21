@@ -1,2 +1,2 @@
 # Kaggle
-![image](img/"sue991 - Python.jpg")
+![image](img/sue991_Python.png)
