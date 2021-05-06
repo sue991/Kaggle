@@ -7,3 +7,4 @@
 
 ### Intro Machine Learning Course Certificate
 ![image](img/sue991_intro_Machine_Learning.png)
+
